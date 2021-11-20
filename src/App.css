@@ -1,0 +1,10 @@
+.container {
+    display: flex;
+}
+
+.others {
+    padding: 20px;
+    flex: 4;
+    background-color: #EAEFF8;
+
+}

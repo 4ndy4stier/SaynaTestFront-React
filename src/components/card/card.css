@@ -1,0 +1,11 @@
+.cardContainer {
+    width: 30%;
+    height: auto;
+    background-color: #142FBC;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.moneyAmount {
+    font-size: larger;
+}
