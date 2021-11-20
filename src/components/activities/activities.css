@@ -1,0 +1,61 @@
+.activitiesTitle {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+.reportBtn {
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    border: none;
+    background-color: #BBBBCD;
+    cursor: pointer;
+    transition: transform 0.5s ease-in-out;
+}
+
+.dayActivity {
+    font-size: medium;
+    color: #87888a;
+}
+
+.activitiesContainer {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 0;
+    align-items: center;
+}
+
+.activitiesInfo {
+    width: 50%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.activitiesInfoText {
+    margin-left: 20px;
+}
+
+.usage {
+    font-weight:500;
+    color: #545455;
+}
+
+.status {
+    margin-top: 7px;
+    font-size: 15px;
+    color: #aaaaaa;
+}
+
+.money {
+    margin-right: 20px;
+}
+
+.todayActivities {
+    margin-top: 40px;
+}

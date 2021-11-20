@@ -1,0 +1,30 @@
+.pieChartContainer {
+    width: 50%;
+    display: flex;
+}
+
+.pieInfo {
+    flex: 2;
+    width : 50px;
+    white-space: nowrap;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.pieTitle {
+    font-size: medium;
+    margin-bottom: 10px;
+}
+
+.numberUsed {
+    color: #4F5EA4;
+}
+
+.numberRest {
+    font-size: small;
+    color: #9c9ea1;
+}

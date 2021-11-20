@@ -1,0 +1,19 @@
+.paymentsTitleContainer {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.paymentsStatusContainer {
+    display: flex;
+    justify-content: space-around;
+}
+
+.paymentsContainer {
+    margin-top: 75px;
+}
+
+.moneysContainer {
+    display: flex;
+}

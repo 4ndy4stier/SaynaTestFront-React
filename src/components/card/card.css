@@ -1,11 +1,30 @@
-.cardContainer {
-    width: 30%;
+.card {
+    width: 28%;
     height: auto;
-    background-color: #142FBC;
+    background-color: #fff;
     padding: 15px;
     border-radius: 10px;
 }
 
+.cardHighlighted {
+    width: 28%;
+    height: auto;
+    background-color: #142FBC;
+    padding: 15px;
+    border-radius: 10px;
+    color : whitesmoke
+}
+
+.bankIcon {
+    margin-bottom: 20px;
+}
+
 .moneyAmount {
     font-size: larger;
+    margin-bottom: 20px;
 }
+
+.cardNumber, .date {
+    font-size: 15px;
+}
+

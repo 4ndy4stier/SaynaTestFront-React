@@ -7,7 +7,7 @@ export default function CreateCard() {
     return (
         <div className="container-top">
             <h1>Your Cards</h1>
-            <button> <AddToPhotosOutlinedIcon /> New Card</button>
+            <button className="addBtn"> <AddToPhotosOutlinedIcon /> New Card</button>
         </div>
     )
 }

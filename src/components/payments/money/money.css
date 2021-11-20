@@ -1,0 +1,23 @@
+.moneyContainer {
+    margin: 25px;
+    display: flex;
+    flex-direction: column;
+    background-color: whitesmoke;
+    width: 40%;
+    height: auto;
+    white-space: nowrap;
+    margin: 25px;
+
+}
+
+.moneyInfo {
+    display: flex;
+    align-items: center;    
+    margin: 20px;
+}
+
+.moneyAmounts {
+    margin-left: 25px;
+}
+
+

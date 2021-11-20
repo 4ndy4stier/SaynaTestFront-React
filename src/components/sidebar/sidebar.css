@@ -1,12 +1,15 @@
 .sidebar {
     flex: 1;
-    height: 100vh;
-    position: sticky;
     background-color: #FFFF;
     font-size: 15px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    width: 250px;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0
 }
 
 .sidebarWrapper {
@@ -75,4 +78,8 @@
 
 .menuListItem:active, .menuListItem:hover{
     color: #142FBC;
+}
+
+.none {
+    display: none;
 }

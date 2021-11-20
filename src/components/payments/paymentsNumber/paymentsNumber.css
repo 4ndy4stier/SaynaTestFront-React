@@ -1,0 +1,24 @@
+.paymentsStatus {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: whitesmoke;
+    height: 100px ;
+}
+
+.paymentStatusInfo {
+    font-size: medium;
+    color: #87888a;
+    margin: 0px 10px 10px 10px;
+    border-radius: 25px;
+}
+
+.hide {
+    display: none;
+}
+
+.alertIcon {
+    position: relative;
+    right: -50px;
+}

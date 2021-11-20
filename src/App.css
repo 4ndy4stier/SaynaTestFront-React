@@ -2,9 +2,37 @@
     display: flex;
 }
 
+
 .others {
     padding: 20px;
     flex: 4;
     background-color: #EAEFF8;
+    margin-left: 250px;
 
+}
+
+.cardContainer {
+    display: flex;
+    justify-content: space-around;
+}
+
+.containerLeft {
+    width: 50%;
+}
+
+.pieContainer {
+    width: 100%;
+    margin-top: 50px;
+    margin-left: -25px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+.bottomContainer {
+    display: flex;
+}
+
+.containerRight {
+    width: 50%;
 }
